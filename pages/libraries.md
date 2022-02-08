@@ -9,6 +9,7 @@
 - 🚧 [Object Mapper](https://github.com/orisai/object-mapper) - Raw data mapping to validated objects
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
 - ✔️ [Utils](https://github.com/orisai/utils) - Utility classes used across Orisai libraries
+- 🚧 [VFS](https://github.com/orisai/vfs) - Emulate file system with plain PHP
 
 ### [Nette](https://nette.org) integrations
 
