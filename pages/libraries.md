@@ -2,7 +2,7 @@
 
 ### PHP
 
-- 🚧 [Auth](https://github.com/orisai/auth) - Authentication and authorization
+- ✔️ [Auth](https://github.com/orisai/auth) - Authentication and authorization
 - ✔️ [Coding Standard](https://github.com/orisai/coding-standard-php) - Strict PHP coding standard
 - 🚧 [Data Sources](https://github.com/orisai/data-sources) - Load and save data from and to various data formats
 - ✔️ [Exceptions](https://github.com/orisai/exceptions) - Exceptions designed for static analysis and easy usage
