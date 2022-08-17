@@ -23,7 +23,6 @@
 - ✔️ [Monolog](https://github.com/orisai/nette-monolog) - Monolog logger integration for Nette
 - 🚧 [PDF](https://github.com/orisai/nette-pdf) - PDF generator for Nette
 - 🚧 [Predis](https://github.com/orisai/nette-predis) - Predis integration for Nette
-- 🚧 [Time](https://github.com/orisai/nette-time) - Clock and timezone configuration for Nette
 
 ### CMF
 
