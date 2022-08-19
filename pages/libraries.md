@@ -21,7 +21,7 @@
 - ✔️ [Clock](https://github.com/orisai/nette-clock) - Orisai Clock integration for Nette
 - ✔️ [DI](https://github.com/orisai/nette-di) - Configure your Nette application
 - 🚧 [HTTP Client](https://github.com/orisai/nette-http-client) - PSR-17 and PSR-18 HTTP client integration for Nette
-- 🚧 [Installer](https://github.com/orisai/installer) - Installer for Orisai CMF/Nette packages
+- 🚧 [Installer](https://github.com/orisai/installer) - Composer installer and configurator for Orisai CMF/Nette packages
 - ✔️ [Monolog](https://github.com/orisai/nette-monolog) - Monolog logger integration for Nette
 - 🚧 [PDF](https://github.com/orisai/nette-pdf) - PDF generator for Nette
 - 🚧 [Predis](https://github.com/orisai/nette-predis) - Predis integration for Nette
