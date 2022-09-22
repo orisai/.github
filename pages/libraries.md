@@ -9,6 +9,7 @@
 - ✔️ [Exceptions](https://github.com/orisai/exceptions) - Exceptions designed for static analysis and easy usage
 - 🚧 [Localization](https://github.com/orisai/localization) - Internationalization (i18n) and localization (l10n)
 - 🚧 [Object Mapper](https://github.com/orisai/object-mapper) - Raw data mapping to validated objects
+- 🚧 [Serialized Query](https://github.com/orisai/serialized-query) - (De)Serialize data for storing in URL query parameter
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
 - ✔️ [Utils](https://github.com/orisai/utils) - Utility classes used across Orisai libraries
 - 🚧 [VFS](https://github.com/orisai/vfs) - Emulate file system with plain PHP
