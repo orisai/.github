@@ -10,6 +10,7 @@
 - 🚧 [Localization](https://github.com/orisai/localization) - Internationalization (i18n) and localization (l10n)
 - 🚧 [Object Mapper](https://github.com/orisai/object-mapper) - Raw data mapping to validated objects
 - 🚧 [OpenAPI](https://github.com/orisai/openapi) - OpenAPI builder, parser and serializer
+- 🚧 [Reflection Meta](https://github.com/orisai/reflection-meta) - Build serializable and validated source maps from PHP classes and their attributes/annotations
 - 🚧 [Serialized Query](https://github.com/orisai/serialized-query) - (De)Serialize data for storing in URL query parameter
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
 - 🚧 [Source Map](https://github.com/orisai/source-map) - Generate, validate and serialize source maps
