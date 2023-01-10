@@ -13,7 +13,7 @@
 - 🚧 [Reflection Meta](https://github.com/orisai/reflection-meta) - Build serializable and validated source maps from PHP classes and their attributes/annotations
 - 🚧 [Serialized Query](https://github.com/orisai/serialized-query) - (De)Serialize data for storing in URL query parameter
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
-- 🚧 [Source Map](https://github.com/orisai/source-map) - Generate, validate and serialize source maps
+- ✔️ [Source Map](https://github.com/orisai/source-map) - Generate, validate and serialize source maps
 - 🚧 [Stream Wrapper Contracts](https://github.com/orisai/stream-wrapper-contracts) - Interface for PHP stream wrapper methods
 - ✔️ [Utils](https://github.com/orisai/utils) - Utility classes used across Orisai libraries
 - 🚧 [VFS](https://github.com/orisai/vfs) - Emulate file system with plain PHP
