@@ -8,6 +8,7 @@
 - 🚧 [Data Sources](https://github.com/orisai/data-sources) - Load and save data from and to various data formats
 - ✔️ [Exceptions](https://github.com/orisai/exceptions) - Exceptions designed for static analysis and easy usage
 - 🚧 [Localization](https://github.com/orisai/localization) - Internationalization (i18n) and localization (l10n)
+- ✔️ [Monolog Logtail](https://github.com/orisai/monolog-logtail) - Monolog handler for Logtail
 - 🚧 [Object Mapper](https://github.com/orisai/object-mapper) - Raw data mapping to validated objects
 - 🚧 [OpenAPI](https://github.com/orisai/openapi) - OpenAPI builder, parser and serializer
 - 🚧 [Reflection Meta](https://github.com/orisai/reflection-meta) - Build serializable and validated source maps from PHP classes and their attributes/annotations
