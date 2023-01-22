@@ -26,7 +26,7 @@
 - 🚧 [Application](https://github.com/orisai/nette-application) - Extras for Nette Application
 - ✔️ [Console](https://github.com/orisai/nette-console) - Symfony Console integration for Nette
 - ✔️ [Clock](https://github.com/orisai/nette-clock) - Orisai Clock integration for Nette
-- 🚧 [Data Sources](https://github.com/orisai/nette-data-sources) - Orisai Data Sources integration for Nette
+- ✔️ [Data Sources](https://github.com/orisai/nette-data-sources) - Orisai Data Sources integration for Nette
 - ✔️ [DI](https://github.com/orisai/nette-di) - Configure your Nette application
 - ✔️ [HTTP](https://github.com/orisai/nette-http) - Extras for nette/http
 - 🚧 [HTTP Client](https://github.com/orisai/nette-http-client) - PSR-17 and PSR-18 HTTP client integration for Nette
