@@ -11,7 +11,7 @@
 - ✔️ [Monolog Logtail](https://github.com/orisai/monolog-logtail) - Monolog handler for Logtail
 - 🚧 [Object Mapper](https://github.com/orisai/object-mapper) - Raw data mapping to validated objects
 - 🚧 [OpenAPI](https://github.com/orisai/openapi) - OpenAPI builder, parser and serializer
-- 🚧 [Reflection Meta](https://github.com/orisai/reflection-meta) - Build serializable and validated source maps from PHP classes and their attributes/annotations
+- 🚧 [Reflection Meta](https://github.com/orisai/reflection-meta) - PHP reflection in more reliable and deterministic way
 - 🚧 [Serialized Query](https://github.com/orisai/serialized-query) - (De)Serialize data for storing in URL query parameter
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
 - ✔️ [Source Map](https://github.com/orisai/source-map) - Generate, validate and serialize source maps
