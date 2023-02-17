@@ -1,0 +1,35 @@
+name: Feature proposal 💡
+description: Suggest a new feature
+labels:
+  - enhancement
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: |
+        Provide a detailed description of the feature you'd like to see added.
+        What problem does this feature solve? How will it benefit users?
+        Try to be as specific and clear as possible.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Addition information
+      description: |
+        Include any additional information, links, or resources that may be helpful in understanding or implementing the feature.
+        If you have any ideas for how the feature could be implemented, include those here as well.
+  - type: input
+    attributes:
+      label: Related issues
+      description: |
+        If there are any related issues, link them here.
+        e.g. `#2`, `orisai/auth#5`
+  - type: markdown
+    attributes:
+      value: |
+        Consider [supporting our project](https://orisai.dev/sponsor) financially if you don't already do so.
+        Proposals from our backers are more likely to be implemented and to have higher priority.
+        Amount of work we can do is directly dependent on your support.
+
+        If the company you work for uses this project,
+        please take the time to convince your superiors that supporting the project is important for its stability, maintenance and further development.

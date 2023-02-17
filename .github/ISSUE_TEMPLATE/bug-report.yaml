@@ -1,0 +1,52 @@
+name: Bug report 🐛
+description: File a bug report
+labels:
+  - bug
+body:
+  - type: input
+    attributes:
+      label: Library version
+      description: Either tag, commit or their ranges in which you discovered that reported bug occurs.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: Please provide a clear and concise description of the bug you have encountered.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: |
+        1. Provide a step-by-step guide to reproducing the issue.
+        2. Be sure to include any specific details or settings that may be relevant.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Actual Behavior
+      description: Please describe what actually happened when you performed the steps outlined above.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: Please describe what you expected to happen when you performed the steps outlined above.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Addition information
+      description: |
+        Please provide any additional information that may be relevant to the issue.
+        e.g. screenshots, language version, operating system and version, browser and version, etc.
+  - type: markdown
+    attributes:
+      value: |
+        Consider [supporting our project](https://orisai.dev/sponsor) financially if you don't already do so.
+        Issues from our backers are more likely to be solved with higher priority.
+        Amount of work we can do is directly dependent on your support.
+
+        If the company you work for uses this project,
+        please take the time to convince your superiors that supporting the project is important for its stability, maintenance and further development.
