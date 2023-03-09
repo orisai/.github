@@ -21,7 +21,6 @@ Namely, these Makefile tasks must pass:
 - `make phpstan` - [PHPStan](https://phpstan.org) checks
 - `make cs` - [Our coding standard](https://github.com/orisai/coding-standard-php)
 - `make tests` - Tests written with [PHPUnit](https://phpunit.de)
-- `make mutations` - Mutations tests with [Infection PHP](https://infection.github.io)
 
 Ideally, full coverage should be achieved (but is not strictly required):
 
