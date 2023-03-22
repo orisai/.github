@@ -24,7 +24,7 @@
 ### [Nette](https://nette.org) integrations
 
 - ✔️ [Auth](https://github.com/orisai/nette-auth) - Orisai Auth integration for Nette
-- 🚧 [Application](https://github.com/orisai/nette-application) - Extras for Nette Application
+- 🚧 [Application](https://github.com/orisai/nette-application) - Extras for nette/application
 - ✔️ [Console](https://github.com/orisai/nette-console) - Symfony Console integration for Nette
 - ✔️ [Clock](https://github.com/orisai/nette-clock) - Orisai Clock integration for Nette
 - ✔️ [Data Sources](https://github.com/orisai/nette-data-sources) - Orisai Data Sources integration for Nette
