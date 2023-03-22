@@ -37,7 +37,7 @@
 - 🚧 [PDF](https://github.com/orisai/nette-pdf) - PDF generator for Nette
 - 🚧 [Predis](https://github.com/orisai/nette-predis) - Predis integration for Nette
 - ✔️ [Scheduler](https://github.com/orisai/nette-scheduler) - Orisai Scheduler integration for Nette
-- ✔️ [Tracy Pets](https://github.com/orisai/tracy-pets) - [Tracy](https://tracy.nette.org) got an angry pet to remind you of your failures
+- ✔️ [Tracy Pets](https://github.com/orisai/tracy-pets) - Tracy got an angry pet to remind you of your failures
 
 ### CMF
 
