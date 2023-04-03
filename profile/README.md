@@ -15,3 +15,4 @@ Here are some useful links you may need:
 - ➕ [Contributing](/pages/contributing.md)
 - 💬 [Discussions/Forum](https://github.com/orgs/orisai/discussions)
 - ⚖️ [Licensing](/pages/licensing.md)
+- ⚙️ [Long term support & compatibility](/pages/lts-compat.md)
