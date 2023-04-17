@@ -7,6 +7,10 @@ Changes in Orisai code larger than few lines should be preceded by an issue, so 
 implement the solution and, if we agree on it, [supporting that effort](https://orisai/sponsor) will greatly lower the
 wait time.
 
+### Issues
+
+Do you have a problem, want a new feature or something else? Just open issue in related repository.
+
 ### Pull requests
 
 Any pull request must pass our CI checks. For most packages it means passing PHPStan, PHP_CodeSniffer and coverage
