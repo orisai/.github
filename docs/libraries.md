@@ -40,6 +40,10 @@
 - ✔️ [Scheduler](https://github.com/orisai/nette-scheduler) - Orisai Scheduler integration for Nette
 - ✔️ [Tracy Pets](https://github.com/orisai/tracy-pets) - Tracy got an angry pet to remind you of your failures
 
+### [Nextras](https://nextras.org) integrations
+
+- 🚧 [Object Mapper](https://github.com/orisai/nextras-object-mapper) - Object mapper rules for nextras/orm
+
 ### CMF
 
 - 🚧 [CMF](https://github.com/orisai/cmf) - Orisai CMF (content management framework)
