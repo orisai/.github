@@ -13,6 +13,5 @@ Here are some useful links you may need:
 - 📚 [Libraries](/docs/libraries.md)
 - 💸 [Sponsoring](https://orisai.dev/sponsor)
 - ➕ [Contributing](/docs/contributing.md)
-- 💬 [Discussions/Forum](https://github.com/orgs/orisai/discussions)
 - ⚖️ [Licensing](/docs/licensing.md)
 - ⚙️ [Long term support & compatibility](/docs/lts-compat.md)
