@@ -12,7 +12,7 @@
 - 🚧 [Object Mapper](https://github.com/orisai/object-mapper) - Raw data mapping to validated objects
 - ✔️ [Object Mapper Contracts](https://github.com/orisai/object-mapper-contracts) - Interface for orisai/object-mapper mapped objects
 - 🚧 [OpenAPI](https://github.com/orisai/openapi) - OpenAPI builder, parser and serializer
-- 🚧 [Reflection Meta](https://github.com/orisai/reflection-meta) - PHP reflection in more reliable and deterministic way
+- ✔️ [Reflection Meta](https://github.com/orisai/reflection-meta) - PHP reflection in more reliable and deterministic way
 - ✔️ [Scheduler](https://github.com/orisai/scheduler) - Cron job scheduler - with locks, parallelism and more
 - 🚧 [Serialized Query](https://github.com/orisai/serialized-query) - (De)Serialize data for storing in URL query parameter
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
