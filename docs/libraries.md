@@ -34,7 +34,7 @@
 - 🚧 [HTTP Client](https://github.com/orisai/nette-http-client) - PSR-17 and PSR-18 HTTP client integration for Nette
 - 🚧 [Installer](https://github.com/orisai/installer) - Composer installer and configurator for Orisai CMF/Nette packages
 - ✔️ [Monolog](https://github.com/orisai/nette-monolog) - Monolog logger integration for Nette
-- 🚧 [Object Mapper](https://github.com/orisai/nette-object-mapper) - Orisai Object Mapper integration for Nette
+- ✔️ [Object Mapper](https://github.com/orisai/nette-object-mapper) - Orisai Object Mapper integration for Nette
 - 🚧 [PDF](https://github.com/orisai/nette-pdf) - PDF generator for Nette
 - 🚧 [Predis](https://github.com/orisai/nette-predis) - Predis integration for Nette
 - ✔️ [Scheduler](https://github.com/orisai/nette-scheduler) - Orisai Scheduler integration for Nette
