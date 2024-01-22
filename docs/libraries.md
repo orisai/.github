@@ -31,7 +31,6 @@
 - ✔️ [Data Sources](https://github.com/orisai/nette-data-sources) - Orisai Data Sources integration for Nette
 - ✔️ [DI](https://github.com/orisai/nette-di) - Configure your Nette application
 - ✔️ [HTTP](https://github.com/orisai/nette-http) - Extras for nette/http
-- 🚧 [HTTP Client](https://github.com/orisai/nette-http-client) - PSR-17 and PSR-18 HTTP client integration for Nette
 - 🚧 [Installer](https://github.com/orisai/installer) - Composer installer and configurator for Orisai CMF/Nette packages
 - ✔️ [Mail](https://github.com/orisai/nette-mail) - Extras for nette/mail
 - ✔️ [Monolog](https://github.com/orisai/nette-monolog) - Monolog logger integration for Nette
