@@ -5,6 +5,7 @@
 - ✔️ [Auth](https://github.com/orisai/auth) - Authentication and authorization
 - ✔️ [Coding Standard](https://github.com/orisai/coding-standard-php) - Strict PHP coding standard
 - ✔️ [Clock](https://github.com/orisai/clock) - Provides current time for runtime and controllable time for testing
+- 🚧 [Cron Expression Explainer](https://github.com/orisai/cron-expression-explainer) - Human-readable cron expressions
 - ✔️ [Data Sources](https://github.com/orisai/data-sources) - Load and save data from and to various data formats
 - ✔️ [Exceptions](https://github.com/orisai/exceptions) - Exceptions designed for static analysis and easy usage
 - 🚧 [Localization](https://github.com/orisai/localization) - Internationalization (i18n) and localization (l10n)
