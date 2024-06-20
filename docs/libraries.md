@@ -15,7 +15,6 @@
 - 🚧 [OpenAPI](https://github.com/orisai/openapi) - OpenAPI builder, parser and serializer
 - ✔️ [Reflection Meta](https://github.com/orisai/reflection-meta) - PHP reflection in more reliable and deterministic way
 - ✔️ [Scheduler](https://github.com/orisai/scheduler) - Cron job scheduler - with locks, parallelism and more
-- 🚧 [Serialized Query](https://github.com/orisai/serialized-query) - (De)Serialize data for storing in URL query parameter
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
 - ✔️ [Source Map](https://github.com/orisai/source-map) - Generate, validate and serialize source maps
 - 🚧 [Stream Wrapper Contracts](https://github.com/orisai/stream-wrapper-contracts) - Interface for PHP stream wrapper methods
