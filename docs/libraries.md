@@ -7,6 +7,7 @@
 - ✔️ [Clock](https://github.com/orisai/clock) - Provides current time for runtime and controllable time for testing
 - ✔️ [Cron Expression Explainer](https://github.com/orisai/cron-expression-explainer) - Human-readable cron expressions
 - ✔️ [Data Sources](https://github.com/orisai/data-sources) - Load and save data from and to various data formats
+- 🚧 [DB Audit](https://github.com/orisai/db-audit) - SQL database analysis for common errors in structure, data and configuration
 - ✔️ [Exceptions](https://github.com/orisai/exceptions) - Exceptions designed for static analysis and easy usage
 - 🚧 [Localization](https://github.com/orisai/localization) - Internationalization (i18n) and localization (l10n)
 - ✔️ [Monolog Logtail](https://github.com/orisai/monolog-logtail) - Monolog handler for Logtail
