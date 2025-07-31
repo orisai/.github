@@ -18,7 +18,7 @@
 - ✔️ [Scheduler](https://github.com/orisai/scheduler) - Cron job scheduler - with locks, parallelism and more
 - 🚧 [Sitemap](https://github.com/orisai/sitemap) - Sitemap generator
 - ✔️ [Source Map](https://github.com/orisai/source-map) - Generate, validate and serialize source maps
-- 🚧 [Stream Wrapper Contracts](https://github.com/orisai/stream-wrapper-contracts) - Interface for PHP stream wrapper methods
+- ✔️ [Stream Wrapper Contracts](https://github.com/orisai/stream-wrapper-contracts) - Interface for PHP stream wrapper methods
 - ✔️ [Translation Contracts](https://github.com/orisai/translation-contracts) - Interface for translator and translatable messages
 - ✔️ [Utils](https://github.com/orisai/utils) - Utility classes used across Orisai libraries
 - 🚧 [VFS](https://github.com/orisai/vfs) - Emulate file system with plain PHP
