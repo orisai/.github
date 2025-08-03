@@ -21,7 +21,7 @@
 - ✔️ [Stream Wrapper Contracts](https://github.com/orisai/stream-wrapper-contracts) - Interface for PHP stream wrapper methods
 - ✔️ [Translation Contracts](https://github.com/orisai/translation-contracts) - Interface for translator and translatable messages
 - ✔️ [Utils](https://github.com/orisai/utils) - Utility classes used across Orisai libraries
-- 🚧 [VFS](https://github.com/orisai/vfs) - Emulate file system with plain PHP
+- ✔️ [VFS](https://github.com/orisai/vfs) - Emulate file system with plain PHP
 
 ### [Nette](https://nette.org) integrations
 
