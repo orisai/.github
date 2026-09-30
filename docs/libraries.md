@@ -36,19 +36,12 @@
 - ✔️ [Mail](https://github.com/orisai/nette-mail) - Extras for nette/mail
 - ✔️ [Monolog](https://github.com/orisai/nette-monolog) - Monolog logger integration for Nette
 - ✔️ [Object Mapper](https://github.com/orisai/nette-object-mapper) - Orisai Object Mapper integration for Nette
-- 🚧 [PDF](https://github.com/orisai/nette-pdf) - PDF generator for Nette
-- 🚧 [Predis](https://github.com/orisai/nette-predis) - Predis integration for Nette
 - ✔️ [Scheduler](https://github.com/orisai/nette-scheduler) - Orisai Scheduler integration for Nette
 - ✔️ [Tracy Pets](https://github.com/orisai/tracy-pets) - Tracy got an angry pet to remind you of your failures
 
 ### [Nextras](https://nextras.org) integrations
 
 - 🚧 [Object Mapper](https://github.com/orisai/nextras-object-mapper) - Object mapper rules for nextras/orm
-
-### CMF
-
-- 🚧 [CMF](https://github.com/orisai/cmf) - Orisai CMF (content management framework)
-- 🚧 [CMF project skeleton](https://github.com/orisai/cmf-project) - Orisai CMF project skeleton
 
 ### Other
 
